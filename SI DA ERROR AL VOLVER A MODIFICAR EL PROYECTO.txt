@@ -1,0 +1,24 @@
+SI TE DA UN ERROR DE SIGNTOOL NOT FOUND Y NO DEJA COMPILAR LOS CAMBIOS:
+
+PRIMERO HACES UN REBUILD DEL PROYECTO
+
+VAS AL MENU BUILD , REBUILD SOLUTION
+
+DESPUES
+
+VAS AL MENU PROYECT , PROPIEDADES DEL PROYECTO
+
+Y EN EL TAB SIGNING , DECHEQUEAS LA CASILLA QUE PONE SIGN THE CLICKONCE MANIFESTS
+
+
+
+
+
+
+
+
+If you do not want to Publish or install ClickOnce, do the following:
+
+Go to Project > Properties
+
+In the Signing tab, uncheck Sign the ClickOnce manifests.
